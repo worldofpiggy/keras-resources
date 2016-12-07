@@ -114,3 +114,4 @@ If you have a high-quality tutorial or project to add, please open a PR.
 - [dataset-sts](https://github.com/brmson/dataset-sts): Semantic Text Similarity Dataset Hub
 - [snli-entailment](https://github.com/shyamupa/snli-entailment): Independent implementation of attention model for textual entailment from the paper ["Reasoning about Entailment with Neural Attention"](http://arxiv.org/abs/1509.06664).
 - [Headline generator](https://github.com/udibr/headlines): independent implementation of [Generating News Headlines with Recurrent Neural Networks](http://arxiv.org/abs/1512.01712)
+- [Deep ahem detector](https://github.com/worldofpiggy/deeplearning-ahem-detector): Detect and remove 'ahem' sounds from podcast episodes
